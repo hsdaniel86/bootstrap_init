@@ -1,3 +1,3 @@
 #bootstrap
 
-## iniciando curso e bootstrap
+## iniciando curso de bootstrap
