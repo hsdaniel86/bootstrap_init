@@ -1,0 +1,88 @@
+body{
+	background-color: #11F4C0;
+}
+
+.navbar-brand img{
+	border-radius: 10px;
+}
+
+.navbar{
+	background-color: #11F4C0;
+}
+
+.nav-item{
+	border: 1px dotted black;
+}
+
+.btn{
+	background-color: #B5EFE2;
+}
+
+.quem-somos{
+	background-color: #9CA2A1;
+	color: whitesmoke;
+	text-align: justify;
+}
+
+.margem{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.margin{
+	padding-top: 25px;
+}
+
+.layoutimg{
+	padding-left: 200px;
+	padding-bottom: 10px;
+}
+
+.just{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.qimg{
+    width: 400px; 
+    height: 280px; 
+}
+
+.qlogo{
+ 	width: 300px;
+ 	height: 200px;
+}
+
+.title{
+	text-decoration: underline;
+	border: 3px groove #11F4C0;
+	border-radius: 15px;
+	background-color: #11F4C0;
+	width: 250px;
+	margin-left: 665px;
+	padding-bottom: 5px;
+}
+
+.font{
+	font-family: Verdana;
+	font-size: 24px;
+	font-style: italic;
+}
+
+.image{
+	border-radius: 20px;
+	border: 1px inset #9CA2A1;
+}
+
+.tabacaria{
+	background-color: #757777;
+	color: whitesmoke;
+	text-align: justify;
+}
+
+.tabcol{
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 15px;
+}
